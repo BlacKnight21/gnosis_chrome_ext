@@ -1,0 +1,1 @@
+# gnosis_chrome_ext
